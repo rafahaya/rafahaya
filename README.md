@@ -16,7 +16,7 @@ I'm a passionate **3D Visualizer** from **Brazil** with intention to migrate my 
 - **Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white), ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white), etc.
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![rafahaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafahaya&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rafaelhayafuzi)
