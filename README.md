@@ -1,26 +1,39 @@
-# 👋 Hello, World! I'm Rafael Hayafuzi
+# Olá, eu sou Rafael Hayafuzi 👋
 
-//![Profile Banner](https://your-image-link.com/banner.png)
+Sou Senior 3D Artist e 3D Generalist com mais de 15 anos de experiência na criação de conteúdo visual, computação gráfica e projetos digitais.
 
-## About Me
-I'm a passionate **3D Visualizer** from **Brazil** with intention to migrate my work area.  I love to create, innovate, and make the web a more beautiful place.
+Minha trajetória combina criatividade, tecnologia e atenção aos detalhes para transformar ideias em experiências visuais dinâmicas e impactantes. Atualmente também venho expandindo minhas habilidades em desenvolvimento web, automação, GitHub, DevOps e ferramentas de inteligência artificial.
 
-- 🔭 I’m currently working on **3D Visualizer**
-- 🌱 I’m learning **Linux, Python, Html and CSS**
-- 📫 How to reach me: **rafah.yuji@gmail.com**
+## O que estou desenvolvendo
 
-## 🛠️ My Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), etc.
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white), etc.
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white), etc.
-- **Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white), ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white), etc.
+- Projetos de visualização e computação gráfica
+- Aplicações web interativas
+- Automação de fluxos de trabalho
+- Materiais educacionais digitais
+- Estudos de DevOps e infraestrutura
+- Publicação e organização de projetos com Git e GitHub
 
-## 📈 GitHub Stats
-![rafahaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafahaya&show_icons=true&theme=radical)
+## Tecnologias e ferramentas
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rafaelhayafuzi)
-- [Website](https://rhd3sign.com) **Offline**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=azuredevops&logoColor=white" alt="DevOps">
+</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+## Objetivo
+
+Unir experiência visual e tecnologia para criar projetos funcionais, criativos, bem documentados e acessíveis.
+
+## 🔗 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/rafaelhayafuzi/)
+- [GitHub](https://github.com/rafahaya)
+- [Instagram — @rhd3sign](https://www.instagram.com/rhd3sign/)
 
