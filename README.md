@@ -8,4 +8,4 @@ stack      :: 3ds max, maxscript, python, linux, git, web tech
 status     :: building workflow optimizations & creative tooling
 ```
 
-[linkedin](https://www.linkedin.com/in/rafaelhayafuzi/) · [instagram](https://www.instagram.com/rhd3sign/)
+[linkedin](https://www.linkedin.com/in/rafaelhayafuzi/) · [instagram](https://www.instagram.com/rafahaya_/)
